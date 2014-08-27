@@ -1,0 +1,9 @@
+
+/*INNER PARALLAX SECTIONS (Except Intro Parallax)*/
+
+.no-parallax{
+	background-attachment: scroll !important;
+}
+
+
+
